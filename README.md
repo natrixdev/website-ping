@@ -1,6 +1,6 @@
 # Website Ping
 A simple program to see a website ping 
-```PYTHON
+```PY
 run : pinger6.bat
 ```
 
