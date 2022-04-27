@@ -1,6 +1,6 @@
 title Pinger by natrixdev
 color a 
-echo starting ...
+@echo starting ...
 cls
 @echo off
 set /p WEBSITE_ADRESS=Website Adress (ex: natrix.com)?
